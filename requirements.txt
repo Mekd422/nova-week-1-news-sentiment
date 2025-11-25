@@ -51,7 +51,7 @@ murmurhash==1.0.15
 narwhals==2.10.2
 nest-asyncio==1.6.0
 numexpr==2.14.1
-numpy==2.3.4
+numpy==1.26.4
 packaging==25.0
 pandas==2.3.3
 pandocfilters==1.5.1
