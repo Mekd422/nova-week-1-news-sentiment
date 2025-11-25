@@ -16,7 +16,6 @@ scikit-learn
 scipy
 
 # Technical Indicators (pure Python - safer than TA-Lib)
-pandas_ta
 ta
 
 # Data fetching (optional)
