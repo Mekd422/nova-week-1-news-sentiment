@@ -54,6 +54,7 @@ numpy==1.26.4
 packaging==23.2
 pandas==2.2.0
 pandocfilters==1.5.0
+parso==0.8.3
 pillow==10.2.0
 platformdirs==4.1.0
 plotly==5.18.0
